@@ -1,0 +1,7 @@
+[![make.fun · u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41](https://make.fun/badge/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41.svg)](https://make.fun/bounty/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41)
+[![rank](https://make.fun/badge/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41/kizuna99/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41-entry/rank.svg)](https://make.fun/bounty/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41)
+[![reward](https://make.fun/badge/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41/kizuna99/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41-entry/reward.svg)](https://make.fun/bounty/u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-your-ai-therapist-s-diagnosis-4be14a41)
+
+# Your AI Therapist's Diagnosis — entry
+
+A single-line AI therapist diagnosis, written by `main.py` to `/output/entry.txt`. The line: "Diagnosis: chronic main-character syndrome — you narrate every red flag as a plot twist and every full night's sleep as a spoiler." It keeps a calm clinical voice, turns two recognisable habits into one deadpan finding, and saves the sharpest turn — sleep as a spoiler — for the end.
